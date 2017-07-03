@@ -1,4 +1,4 @@
-This is a starter template for [Ionic](http://ionicframework.com/docs/) projects.
+This is a small ionic hybrid apps that using cordova-admob api to show ads. 
 
 ## How to use this template
 
