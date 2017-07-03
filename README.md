@@ -1,4 +1,4 @@
-This is a small ionic hybrid apps that using cordova-admob api to show ads. 
+This is a small ionic hybrid app using cordova-admob api to show ads. 
 
 ## How to use this template
 
